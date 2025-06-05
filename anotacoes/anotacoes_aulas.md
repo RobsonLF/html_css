@@ -46,3 +46,4 @@
     * Tamanho bom para usar em sites pode ser entre 500px e 650px;
     * A resolução da imagem não precisa ser alta, pode ser considerado entre 50 e 75;
 ### 6.4. Tags de imagens
+    * Com a tag <img> pode usar arquivos locais ou arquivos que estão na rede;
