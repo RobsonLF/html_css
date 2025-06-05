@@ -36,8 +36,13 @@
     * .gif - qualidade ruim, possibilita transparência no fundo e animação;
     * .png - alta qualidade, possibilita transparência;
     * .jpg - boa qualidade, arquivo pequeno, não possibiblita transparência.
-
-### 6.2. Tamanhos de imagens
+### 6.2. Referencias de sites e tipos de buscas
+    * Google imagens --> Ferramentas --> direitos de uso
+    * Sites
+        * pexels.com
+        * unsplash.com
+### 6.3. Tamanhos de imagens
     * Tamanho razoável para usar em sites pode ser 1500px de largura;
     * Tamanho bom para usar em sites pode ser entre 500px e 650px;
     * A resolução da imagem não precisa ser alta, pode ser considerado entre 50 e 75;
+### 6.4. Tags de imagens
