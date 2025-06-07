@@ -47,3 +47,11 @@
     * A resolução da imagem não precisa ser alta, pode ser considerado entre 50 e 75;
 ### 6.4. Tags de imagens
     * Com a tag <img> pode usar arquivos locais ou arquivos que estão na rede;
+
+### 6.5. Favicon
+[Site para icones](https://www.iconarchive.com/)
+    * Baixar icones
+[Site para criar favicon](https://www.favicon.cc/)
+    * Desenhar um icone
+[Site para criar um favicon](https://favicon.io/)
+    * Criar um icone ou transformar um png, jpg em ico
