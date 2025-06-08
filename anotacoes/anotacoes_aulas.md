@@ -55,3 +55,5 @@
     * Desenhar um icone
 [Site para criar um favicon](https://favicon.io/)
     * Criar um icone ou transformar um png, jpg em ico
+
+## 7. Hierarquia de Titulos
