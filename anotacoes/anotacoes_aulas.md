@@ -49,11 +49,13 @@
     * Com a tag <img> pode usar arquivos locais ou arquivos que estão na rede;
 
 ### 6.5. Favicon
+
+* Baixar icones 
 [Site para icones](https://www.iconarchive.com/)
-    * Baixar icones
+* Desenhar um icone
 [Site para criar favicon](https://www.favicon.cc/)
-    * Desenhar um icone
+* Criar um icone ou transformar um png, jpg em ico
 [Site para criar um favicon](https://favicon.io/)
-    * Criar um icone ou transformar um png, jpg em ico
 
 ## 7. Hierarquia de Titulos
+    
