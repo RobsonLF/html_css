@@ -58,4 +58,10 @@
 [Site para criar um favicon](https://favicon.io/)
 
 ## 7. Hierarquia de Titulos
+    * Vai de H1 até H6
+    * Funciona como  um índice de livro Começando com o mais importante H1 até o menos importante que é o H6
+
+## 8. Semântica HTML5
+    * Semântica é estudo do significado dos vocábulos, por oposição à sua forma. 
+    * Existem tags que funcionam mais estão descontinuadas no HTML. Porque o HTML foca na semantica e para forma usa-se o CSS
     
