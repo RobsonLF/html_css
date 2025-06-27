@@ -1,4 +1,7 @@
 # HTML5 e CSS3
+## Atalhos
+    * Seleciona o texto e crtl+shift+p e seleciona Envelop com abreviatura 
+
 ## Modulo 1
 ## 1. Bibliografia
     * Referência MDN - Mozilla Develper Network
@@ -64,4 +67,7 @@
 ## 8. Semântica HTML5
     * Semântica é estudo do significado dos vocábulos, por oposição à sua forma. 
     * Existem tags que funcionam mais estão descontinuadas no HTML. Porque o HTML foca na semantica e para forma usa-se o CSS
+
+## 9. Formatação de Textos
+
     
