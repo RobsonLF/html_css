@@ -69,5 +69,17 @@
     * Existem tags que funcionam mais estão descontinuadas no HTML. Porque o HTML foca na semantica e para forma usa-se o CSS
 
 ## 9. Formatação de Textos
-
-    
+    * Tags Semânticas
+        * STRONG - Um tipo de negrito para dar destaque;
+        * EM - Um tipo de itálico para dar ênfase;
+        * SMALL - Diminue a fonte, mais num contexto de menos importancia para o texto;
+        * DEL - Como um taxado, que indica um texto excluído que pode ser lido;
+        * INS - Como um sublinhado que indica um texto inserido;
+        * SUP - É um texto menor na parte superior, indicando por exemplo exponenciação;
+        * SUB - É um texto menor na parte inferior, indicando por exemplo ligações químicas;
+    * Tags Não Semânticas
+        * B - Negrito;
+        * I - Itálico;
+        * MARK - marcado como marca texto;
+        * BIG - aumenta o tamanho da fonte;
+        * U - Taxado;
