@@ -83,3 +83,10 @@
         * MARK - marcado como marca texto;
         * BIG - aumenta o tamanho da fonte;
         * U - Taxado;
+## 10. Citações, Código e outras Formatações
+    * Envelopando código para deixar a font mono-espaçada.
+    * A tag CODE serve para apresentar códigos no navegador com a font mono-espaçada, mas não aplica a indentação.
+    * Envelopando a tag CODE dentro da tag PRE é mostrado no como está no editor.
+    * Sempre quando precisar indicar uma citação o indicado é a utilização da tag Q.
+    *
+
