@@ -88,5 +88,10 @@
     * A tag CODE serve para apresentar códigos no navegador com a font mono-espaçada, mas não aplica a indentação.
     * Envelopando a tag CODE dentro da tag PRE é mostrado no como está no editor.
     * Sempre quando precisar indicar uma citação o indicado é a utilização da tag Q.
-    *
+## 11. Listas
+### Listas Ordenadas
+    * Listas com números, letras e algarismos romanos
+### Listas Não ordenadas
+    * Listas que tem como tipos cirulos, quadrado apenas.
+    
 
