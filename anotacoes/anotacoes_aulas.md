@@ -94,6 +94,11 @@
     * Listas com números, letras e algarismos romanos
 ### Listas Não ordenadas
     * Listas que tem como tipos cirulos, quadrado apenas.
-### Listas Mistas
-    *    
+
+### 12. Links 
+    * SEO - Search engine otimization = Otimização para mecanismos de busca
+    * Tag a significa âncora
+    * O parametro target = blank abri o link em uma nova aba
+    
+
 
