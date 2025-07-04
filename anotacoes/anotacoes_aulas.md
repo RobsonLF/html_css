@@ -1,6 +1,7 @@
 # HTML5 e CSS3
 ## Atalhos
-    * Seleciona o texto e crtl+shift+p e seleciona Envelop com abreviatura 
+    * Seleciona o texto e crtl+shift+p e seleciona Envelop com abreviatura;
+    * Para editar mais de uma tag ao mesmo tempo, selecione as tags pressionando alt, e depois é so editar;
 
 ## Modulo 1
 ## 1. Bibliografia
@@ -93,5 +94,6 @@
     * Listas com números, letras e algarismos romanos
 ### Listas Não ordenadas
     * Listas que tem como tipos cirulos, quadrado apenas.
-    
+### Listas Mistas
+    *    
 
