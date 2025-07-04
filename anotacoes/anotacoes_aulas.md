@@ -95,10 +95,17 @@
 ### Listas Não ordenadas
     * Listas que tem como tipos cirulos, quadrado apenas.
 
-### 12. Links 
+## 12. Links 
+### Links Externos e Internos
     * SEO - Search engine otimization = Otimização para mecanismos de busca
     * Tag a significa âncora
     * O parametro target = blank abri o link em uma nova aba
-    
+    * Parametro rel="nofollow" usar quando indicar um link externo, mais que não recomenda o conteúdo (semanticamente). 
+    * Parametro rel="external" indica apenas que é um link external (semanticamente).
+    * Parametro target="_blank" é usado para abrir o link em uma aba nova.
+    * Parametro target="_self" é usado quando o link for aberto na mesma aba.
+    * Para voltar para a pasta anterior ../
+### Links para Downloads
+Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xhtml) onde tem media types 
 
 
