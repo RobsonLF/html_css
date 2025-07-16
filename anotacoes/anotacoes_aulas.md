@@ -108,4 +108,5 @@
 ### Links para Downloads
 Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xhtml) onde tem media types 
 
+## 13. Medias - Imagens Dinamicas e videos
 
