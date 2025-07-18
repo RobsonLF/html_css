@@ -108,7 +108,18 @@
 ### Links para Downloads
 Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xhtml) onde tem media types 
 
-## 13. Medias - Imagens Dinamicas e videos
+## 13. Mídias - Imagens Dinamicas, audios e videos
 
 ### Bounce rate - Taxa de rejeição do Google
     * É quando o site tem um alta taxa de rejeição. Por isso a importancia de pensar nos vários tipos de usuários. Para tentar atender a maioria deles!
+
+### Audio
+    * Como pagar áudio no youtube:
+    * Youtube
+        ** Youtube studio
+            *** Bibliotéca de audio
+
+### Formatos de video
+* Como baixar vídeos para o site
+* [Pexels](https://www.pexels.com/pt-br/)
+* handbrake serve para converter videos
