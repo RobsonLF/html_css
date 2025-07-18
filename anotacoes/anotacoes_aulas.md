@@ -110,3 +110,5 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 
 ## 13. Medias - Imagens Dinamicas e videos
 
+### Bounce rate - Taxa de rejeição do Google
+    * É quando o site tem um alta taxa de rejeição. Por isso a importancia de pensar nos vários tipos de usuários. Para tentar atender a maioria deles!
