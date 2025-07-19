@@ -123,3 +123,6 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 * Como baixar vídeos para o site
 * [Pexels](https://www.pexels.com/pt-br/)
 * handbrake serve para converter videos
+* Formatos para diferentes navegadores. Extensões: .mp4 / .ogv / .m4v / .webm
+* Hospedagem de videos 
+* Dica de onde procurar videos externos para incorporar: Youtube: "animation reel" / vimeo
