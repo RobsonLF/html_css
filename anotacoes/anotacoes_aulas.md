@@ -126,3 +126,14 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 * Formatos para diferentes navegadores. Extensões: .mp4 / .ogv / .m4v / .webm
 * Hospedagem de videos 
 * Dica de onde procurar videos externos para incorporar: Youtube: "animation reel" / vimeo
+
+## 14. CSS
+
+### CSS inline
+    * São as css's dentro do código html junto a tags que compõem a parte de conteúdo;
+
+### CSS internos
+    * A css está dentro do arquivo html porém localizada logo acima do body
+
+### CSS externos
+    * O código css está em um arquivo .css onde é chamado pela tag link no arquivo html acima do título
