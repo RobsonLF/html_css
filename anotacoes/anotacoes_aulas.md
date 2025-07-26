@@ -3,7 +3,7 @@
     * Seleciona o texto e crtl+shift+p e seleciona Envelop com abreviatura;
     * Para editar mais de uma tag ao mesmo tempo, selecione as tags pressionando alt, e depois é so editar;
 
-## Modulo 1
+## Módulo 1
 ## 1. Bibliografia
     * Referência MDN - Mozilla Develper Network
     * W3C - World Wide Web Consortium
@@ -137,3 +137,11 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 
 ### CSS externos
     * O código css está em um arquivo .css onde é chamado pela tag link no arquivo html acima do título
+
+
+## Módulo 2
+
+### Termos importantes
+    * Conceitos --> Emoções de cores/Psicologia das cores
+    * 
+
