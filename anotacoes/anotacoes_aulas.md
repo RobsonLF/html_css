@@ -141,7 +141,8 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 
 ## Módulo 2
 
-### Termos importantes
+### Cores
+#### Termos importantes
     * Conceitos --> Emoções de cores/Psicologia das cores
     * 
 
