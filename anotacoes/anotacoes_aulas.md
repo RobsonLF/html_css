@@ -141,8 +141,50 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 
 ## Módulo 2
 
-### Cores
-#### Termos importantes
+## Cores
+### Termos importantes
     * Conceitos --> Emoções de cores/Psicologia das cores
-    * 
-
+### Harmonia de cores
+    * Circulo Cromático
+    ** No circulo cromático tem 65mi ce cores
+    ** 12 principais cores do circulo
+    ** Cores primárias
+        Amarelo
+        Vermelho
+        Azul
+    ** Cores secundárias 
+        Laranja
+        Violeta
+        Verde
+    ** Cores terciárias - é uma cor que está entre uma cor primária e uma secundária.
+        O nome de uma cor terciária é composto da cor primaria e em seguida a secundária. 
+        Amarelo-esverdeado
+        Amarelo-alaranjado
+        Vermelho-alaranjado
+        Vermelho-arroxeado
+        Azul-arroxeado
+        Azul-esverdeado
+    ** Temperatura das cores
+        Dividindo o circulo entre o amarelo-esverdeado e o Amarelo e o vermelho-arroxeadoe e o violeta;
+        Tudo que está do lado esquerdo são as cores frias e no direito as cores quentes;
+    ** Cores complementares
+        É a cores oposta no circulo;
+        São cores com muito contraste;
+    ** Cores Análogas
+        São cores que não tem muito contraste entre si, mais tem uma harmonia;
+        São uma principal e uma de cada lado da principal
+    ** Cores Análogas Relacionadas
+        São duas cores vizinhas, pula uma cor e pega a terceira cor
+    ** Cores Intercaladas
+    ** Cores Triadicas
+    ** Cores Quadraticas
+    ** Cores Tetrádicas
+    ** Monocromia
+    
+---
+## Ferramentas práticas para criação de paletas
+* [Paleta de cores Adobe](https://color.adobe.com/pt/create/color-wheel)
+* [Peletton](https://paletton.com/)
+* [Coolors](https://coolors.co/)
+* [Captura de cores em outros sites colorZilla]()
+        
