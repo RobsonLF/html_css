@@ -189,5 +189,127 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 * [Captura de cores em outros sites colorZilla]()
 
 ## Gradientes em CSS
-    Para gradientes em css usa-se "background-image" e não "background-color".
-    Para configurações globais do css usa-se o '*' como marcador
+    * Para gradientes em css usa-se "background-image" e não "background-color".
+    * Para configurações globais do css usa-se o '*' como marcador
+
+## Tipografia
+    * Johannes Gutenberg, pai da prensa mecanica de tipos móveis;
+    * Estudo de como escrever coisas no papel/Telas;
+
+### Anatomia dos tipos
+    * A letra x minusculo é o ponto de partida para construção de todas as fontes;
+    * Métrica altura x = Altura da letra x minúscula;
+    * Altura das Maisculas = Altura das letras maiúsculas;
+    * Ascendente = Altura do vazamento das letras minúsculas para cima;
+    * Descendente = Altura do vazamento para baixo das letras que tem calda;
+    * Corpo = Altura total;
+![Metrica altura X](img/fonts01.jpg)
+
+### Anatomicos Geométricos
+    * Serifa, ajuda a guiar a leitura e facilitar a mesma;
+![Serifa](img/fonts02-Serifa.jpg)
+
+### Componentes Anatomicos Geométricos
+    * Haste
+    * Filete
+    * Arco
+    * Esporão
+    * Vertice
+    * Terminal
+    * Braço
+    * Perna
+    * Pé
+    * Espinha
+    * Barriga
+    * Olho
+    * Orelha
+    * Cauda
+![Anatomicos Geométricos](img/fonts03.jpg)
+![Anatomicos Geométricos](img/fonts04.jpg)
+    
+    * Glifo - Cada letra de um alfabeto é um glifo;
+    * Conjunto de glifos é chamado de fonte;
+
+### Variação da familia tipografica
+![Anatomicos Geométricos](img/fonts05.jpg)
+
+### Categoria de Fontes
+    * Para textos longos em telas a preferência é para fonte não-serifadas;
+    * Fonte Monoespaçada é uma fonte que tem o mesmo espaço horizontal;
+    * Fonte escriptada é a fonte que simula a letra humana;
+![Categoria](img/fonts06.jpg)
+
+### CSS web Safe font combination
+    * Combinação de fontes
+
+### Tamanho de Fonte
+    * Medidas Absolutas
+    cm = centimetros
+    mm = milímetros
+    in = polegadas
+    px = pixel
+    pt = ponto
+    pc = paica
+    
+    * Medidas Relativas
+    em = relativo ao tamanho atual da fonte (altura do M);
+    ex = relativo a altura x da fonte (altura do x);
+    rem = relativo a fonte configurada no body;
+    vw = largura da viewport porcentagem da viewport;
+
+    Recomendação da w3c, é a utilização do 'px' e do 'em'
+    tamanho padrão do font-size é 16px
+    16px = 1em
+
+### Shorthand
+    Shorthand font Ordem é quando condença as propriedades em uma unica linha;
+    font-style -> font-weight -> font-size -> font-family
+    font: italic bolder 3em 'Work Sans', sans-serif;
+
+### Google Fonts
+    usar sempre o import/embedded;
+     @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+### Baixar font e usar no site
+    Para usar um arquivo de font é necessário fazer a configuração do font-face
+    
+    @font-face {
+        font-family:'Camiro';
+        src: url(fonts/Camiro.ttf) format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        /*tipos de format()
+        - opentype(otf)
+        - truetype(ttf)
+        - embedded-opentype(Apple advanced typography)
+        - svg
+        */
+    }
+
+### Descobrindo font de outros sites
+    -> chrome web store
+        -> fonts Ninjas
+
+### Descobrindo font dentro de imgens
+* [What font is](https://www.whatfontis.com/) 
+* [Fontsquirrel]()
+* [My fonts](https://www.myfonts.com/)
+
+## Alinhamentos
+
+    <style>
+        body{
+            font: normal 16px Arial, Verdana, serif;
+            text-align: left;
+        }
+        h1{
+            text-align: center;
+        }
+        h2{
+            text-align: right;
+        }
+        p{
+            text-align: justify;
+            text-indent: 30px;
+        }
+    </style>
