@@ -187,4 +187,7 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
 * [Peletton](https://paletton.com/)
 * [Coolors](https://coolors.co/)
 * [Captura de cores em outros sites colorZilla]()
-        
+
+## Gradientes em CSS
+    Para gradientes em css usa-se "background-image" e não "background-color".
+    Para configurações globais do css usa-se o '*' como marcador
