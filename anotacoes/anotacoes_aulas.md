@@ -24,7 +24,7 @@
     * Espaço para armazenamento de arquivos
     * Pago mensalmente
     * Espaço, memória e recursos
-![TDLs](TDLs.png)
+![TDLs](img/TDLs.png)
 ## 4. Extensões do Chorme
     * Chrome web store → web developer
 ## 5. Front-end / Back-end / Full stack
@@ -313,3 +313,9 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
             text-indent: 30px;
         }
     </style>
+
+## Seletores Personalizados
+    * Na folha de estilos para identificar o id usa-se o '#';
+    * Na folha de estilos para identificar uma class usa-se '.';
+    * Um id só pode ser usado em um elemento no mesmo documento;
+    * Principal diferença entre id e class: 
