@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a{
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited{
+            color: darkred;
+        }
+        a:hover{
+            color: black;
+            text-decoration: underline;
+            
+        }
+        a:active{
+            color: yellow;
+        }
+        a::after{
+            content: ' [link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: gray;
+        }
+        a:hover::before{
+            content: '✔   ';
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizados Links</h1>
+    <ul>
+        <li><a href="https://github.com/dashboard" target="_blank">Repositórios GitHub</a></li>
+        <li><a href="https://portaldoaluno.fatecie.edu.br/login" target="_blank">Faculdade</a></li>
+        <li><a href="http://192.168.18.71/ui/sessions/signin" target="_blank">TrueNAS</a></li>
+    </ul>
+</body>
+</html>

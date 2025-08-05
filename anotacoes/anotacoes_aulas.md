@@ -60,6 +60,8 @@
 [Site para criar favicon](https://www.favicon.cc/)
 * Criar um icone ou transformar um png, jpg em ico
 [Site para criar um favicon](https://favicon.io/)
+* Simbolos html5
+[Simbolos html5](https://erikasarti.com/html/dingbats-simbolos-desenhos/#google_vignette)
 
 ## 7. Hierarquia de Titulos
     * Vai de H1 até H6
@@ -319,3 +321,18 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
     * Na folha de estilos para identificar uma class usa-se '.';
     * Um id só pode ser usado em um elemento no mesmo documento;
     * Principal diferença entre id e class: 
+### Pseudo-classes
+
+    * Na folha de estilos para identificar uma pseudo-classe usa-se ':';
+    * Pseudo-classes tem que estar relacionadas a um elemento;
+    * Faz referência ao estado do elemento;
+
+### Pseudo-elemento
+    * Na folha de estilos para identificar um pseudo-elemento usa-se '::';
+
+## Simbolos dos seletores personalizados
+    * #  = id
+    * .  = class
+    * :  = pseudo-classe
+    * :: = pseudo-elemento
+    * >  = children
