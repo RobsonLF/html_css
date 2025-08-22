@@ -336,3 +336,46 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
     * :  = pseudo-classe
     * :: = pseudo-elemento
     * >  = children
+
+## Modelo de Caixas
+    * Elementos de um box
+        Height
+        Width
+        Border
+        Padding
+        Margin
+        Outline
+    * Tipos de Caixa
+        box-level - Quebra linha e ocupa 100% do viewport.
+        Exemplos:
+        div
+        h1 - h6
+        p
+        main
+        header
+        nav
+        article
+        aside
+        footer
+        form
+        video
+
+        inline-level - Fica na mesma linha e não ocupa a largura total do viewport
+        Exemplos:
+        span
+        a
+        code
+        small
+        strong
+        em
+        sup - sub
+        label
+        button
+        input
+        select
+
+## Exemplo pratico
+As configurações feitas pelo user agent são pré-config feitas pelo navegador no html
+User agent = navegador
+
+!['user agent'](/anotacoes/img/user%20agent.png)
