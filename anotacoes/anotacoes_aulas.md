@@ -379,3 +379,5 @@ As configurações feitas pelo user agent são pré-config feitas pelo navegador
 User agent = navegador
 
 !['user agent'](/anotacoes/img/user%20agent.png)
+
+
