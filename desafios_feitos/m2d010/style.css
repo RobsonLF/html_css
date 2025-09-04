@@ -1,1 +1,62 @@
 @charset "UTF-8";
+
+/*
+Paleta de cores
+#2FBD6F
+#3E8A60
+#0CF072
+#385746
+#343D38
+Gradiente header
+#39C878
+#1B633B
+#347954
+*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color:#39C878;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: linear-gradient(180deg,#39C878,#268952,#1D653D );
+    font-family: "Roboto Condensed", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+    color: azure;
+    margin: 0px;
+    }
+header > h1{
+    font-weight: 500;
+    text-align: center;
+    
+}
+header > p{
+    text-align: center;
+    font-weight: 300;
+    font-size: 0.8em;
+}
+header > nav{
+    
+}
+header > nav > a{
+    text-decoration: none;
+    font-size: 0.78em;
+    font-weight: 400;
+    color: azure;
+    
+}
+header > nav > a:hover{
+    color: #2FBD6F;
+}
+
+main{
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+section{
+
+}
