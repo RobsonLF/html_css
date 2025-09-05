@@ -88,3 +88,21 @@ header{
         color:#268952;
     
     }
+    #historia > article > p > a{
+        text-decoration: none;
+        font-weight: 700;
+        color: #268952;
+    }
+
+    main>section>article>img{
+        display: block;
+        margin: auto;
+    }
+    main>section>article>div{
+        background-color: #268952;
+        padding: 25px;
+    }
+    main>section>article>div>iframe{
+        display: block;
+        margin: auto;
+    }
