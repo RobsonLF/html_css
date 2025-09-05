@@ -14,10 +14,18 @@ Gradiente header
 */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: 'idroid';
+    src: url(fonts/idroid.otf);
+    font-weight: normal;
+    font-style: normal;
+}
 body{
-    background-color:#39C878;
+    background-color:#7ad4a1;
     margin: 0px;
-    padding: 0px;
+    
 }
 header{
     background-image: linear-gradient(180deg,#39C878,#268952,#1D653D );
@@ -27,36 +35,56 @@ header{
     color: azure;
     margin: 0px;
     }
-header > h1{
-    font-weight: 500;
-    text-align: center;
+    header > h1{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 500;
+        margin: 0px;
+        padding-top: 20px;
+    }
+    header > p{
+        text-align: center;
+        font-weight: 300;
+        margin: 20px 0px 20px 0px;
+    }
+    header > nav{
+        margin: 0px 0px 0px 15px;
+        padding: 10px 10px 10px 0px;
+    }
+    header > nav > a{
+        text-decoration: none;
+        font-size: 18px;
+        padding: 10px ;
+        font-weight: 500;
+        color: azure;
+    }
+    header > nav > a:hover{
+        color:#2FBD6F ;
+    }
+    main{
+        background-color: white;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    #historia > article > h2{
+        margin: 0px;
+        font-family: 'idroid', sans-serif;
+        color: #268952;
+        padding: 30px 20px 20px 20px;
+    }
+    #historia > article > p{
+        font-family: 'roboto', sans-serif;
+        font-size: 15px;
+        margin: 0px;
+        padding: 20px 20px 20px 20px;
+        text-align: justify;
+        text-indent: 30px;
+    }
+    #historia > article > h3{
+        margin: 0px 0px 0px 20px;
+        padding: 3px 3px 3px 10px;
+        font-family: 'idroid', sans-serif;
+        background: linear-gradient(90deg, hsla(146, 57%, 50%, 1) 0%, hsla(147, 56%, 71%, 1) 0%, hsla(147, 56%, 70%, 1) 18%, hsla(147, 56%, 85%, 1) 68%, hsla(147, 56%, 85%, 1) 68%, hsla(0, 0%, 100%, 1) 100%);
+        color:#268952;
     
-}
-header > p{
-    text-align: center;
-    font-weight: 300;
-    font-size: 0.8em;
-}
-header > nav{
-    
-}
-header > nav > a{
-    text-decoration: none;
-    font-size: 0.78em;
-    font-weight: 400;
-    color: azure;
-    
-}
-header > nav > a:hover{
-    color: #2FBD6F;
-}
-
-main{
-    background-color: white;
-    margin-left: 15%;
-    margin-right: 15%;
-
-}
-section{
-
-}
+    }
