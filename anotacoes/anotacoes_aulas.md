@@ -401,3 +401,32 @@ User agent = navegador
   - []()
   - []()
   - []()
+
+  ---
+  # Variáveis no CSS
+
+  ## Declaração da variável no arquivo CSS
+```js
+   :root{
+        --variavel1: valor
+        --variavel2: valor
+   }
+```
+   ## Utilização da variável no código css
+```js
+   body{
+    background-color: var(--variavel1);
+    color: var(--variavel2);
+   }
+```
+   # Configurações globais no CSS
+```js
+   *{
+        margin: 0px;
+        padding:0px;
+   }
+```
+
+# Ferramenta para visualizar o tamanho da viewport
+
+ - Windows resizer --> dentro do chrome web store
