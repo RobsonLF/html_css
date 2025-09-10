@@ -397,9 +397,9 @@ User agent = navegador
   - [Bootstrap - Personal](https://startbootstrap.com/previews/personal)
 
   - [Bootstrap - Resume](https://startbootstrap.com/previews/resume)  
-  - []()
-  - []()
-  - []()
+  - [1](https://brittanychiang.com/)
+  - [2](https://www.rammaheshwari.com/)
+  - [3](https://tamalsen.dev/)
   - []()
 
   ---
