@@ -62,6 +62,9 @@
 [Site para criar um favicon](https://favicon.io/)
 * Simbolos html5
 [Simbolos html5](https://erikasarti.com/html/dingbats-simbolos-desenhos/#google_vignette)
+* Emojis
+ [Emojipedia](https://emojipedia.org/)
+
 
 ## 7. Hierarquia de Titulos
     * Vai de H1 até H6
