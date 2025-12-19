@@ -3,7 +3,7 @@
     * Seleciona o texto e crtl+shift+p e seleciona Envelop com abreviatura;
     * Para editar mais de uma tag ao mesmo tempo, selecione as tags pressionando alt, e depois é so editar;
 
-## Módulo 1
+# Módulo 1
 ## 1. Bibliografia
     * Referência MDN - Mozilla Develper Network
     * W3C - World Wide Web Consortium
@@ -25,6 +25,7 @@
     * Pago mensalmente
     * Espaço, memória e recursos
 ![TDLs](img/TDLs.png)
+
 ## 4. Extensões do Chorme
     * Chrome web store → web developer
 ## 5. Front-end / Back-end / Full stack
@@ -144,7 +145,7 @@ Link do site [iana](https://www.iana.org/assignments/media-types/media-types.xht
     * O código css está em um arquivo .css onde é chamado pela tag link no arquivo html acima do título
 
 
-## Módulo 2
+# Módulo 2
 
 ## Cores
 ### Termos importantes
@@ -430,6 +431,14 @@ User agent = navegador
    }
 ```
 
-# Ferramenta para visualizar o tamanho da viewport
+## Ferramenta para visualizar o tamanho da viewport
 
  - Windows resizer --> dentro do chrome web store
+
+ # Módulo 3
+
+ [Gerador de QR code](https://www.qr-code-generator.com/)
+
+ ### Alinhamento Vertical
+  - margin: auto; --> só funciona para o alinhamento horizontal de containers.
+  - Para alinhamento vertical usa-se: o box pai tem posicionamento relativo, e o filho absoluto. [Exercicio 7](/exercicios/_modulo-003/ex022/fundo007.html)
