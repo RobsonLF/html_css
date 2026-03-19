@@ -1,11 +1,21 @@
 @charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&family=Passion+One:wght@400;700;900&display=swap');
+
+:root{
+    --font1: Verdana, Geneva, Sans-serif, Tahoma;
+    --font2: 'Passion One', cursive;
+    --font3: 'Fuzzy Bubbles', cursive;
+}
 *{
     margin: 0px;
     padding: 0px;
+    font-size: 1em;
 }
 html, body{
     min-height: 100vh;
     background-color:darkgray;
+    font-family: var(--font1);
 }
 header{
     background-color: black;
@@ -15,6 +25,8 @@ header{
 header > h1{
     padding-top: 30px;
     font-variant: small-caps;
+    font-family: var(--font2);
+    font-size: 6vw;
 }
 header > p{
     padding-bottom: 30px;
@@ -33,6 +45,8 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    font-family: var(--font3);
+    font-size: 1.3em;
 }
 
 section.normal{
@@ -44,7 +58,8 @@ section.imagem{
     color: white;
 }
 section.imagem > p{
-    width: 400px;
+    display: inline-block;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.349);
 }
 footer{
