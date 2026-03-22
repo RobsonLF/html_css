@@ -10,6 +10,7 @@
         }
         table {
             width: 400px;
+            height: 400px;
             border-collapse: collapse;
         }
         tr.linha{
@@ -18,7 +19,8 @@
         td{
             border: 1px solid black;
             padding: 8px;
-            text-align: center;
+            text-align: center;/* left right*/
+            vertical-align: middle;/* top bottom*/
         }
     </style>
 </head>
@@ -30,7 +32,7 @@
             <td>A2</td>
             <td>A3</td>
         </tr>
-        <tr class="linha">
+        <tr>
             <td>B1</td>
             <td>B2</td>
             <td>B3</td>
@@ -40,7 +42,13 @@
             <td>C2</td>
             <td>C3</td>
         </tr>
+        <tr>
+            <td>D1</td>
+            <td>D2</td>
+            <td>D3</td>
+        </tr>
     </table>
+
     
 </body>
 </html>
